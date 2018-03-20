@@ -1,0 +1,49 @@
+# =============================================================================
+# ============================== Master symptoms ==============================
+# =============================================================================
+
+fever-in-infant:
+  name: fever-in-infant
+  pretty-name: Fever in an infant
+  summary: GOLUM. GI, Otitis media, lungs, UTI, meningitis
+  diagnoses:
+    - viral-uri-in-infant
+    - pneumonia-in-infant
+    - otitis-media-in-infant
+    - meningitis-in-infant
+    - uti-in-infant
+    - gastroenteritis-in-infant
+    - occult-bacteremia-in-infant  
+chronic-cough-in-adult:
+  name: chronic-cough-in-adult
+  pretty-name: Chronic cough in an adult
+  summary: My PI Better Get A PPd. Myocardial (cardiac cough), Post-infectious/post-nasal, Bronchitis, GERD, Asthma, Pneumonia/PE/Pulmonary Edema, Pleurodynia, (PPD = Tuberculosis)
+  diagnoses: 
+    - lobar-pneumonia-in-adult
+    - post-infectious-cough-in-adult
+    - acute-bronchitis-in-adult
+    - pleurodynia-in-adult
+    - cough-variant-asthma-in-adult
+    - other-cough-diagnoses-in-adult
+jaundice-in-newborn:
+  name: jaundice-in-newborn
+  pretty-name: Jaundice in newborn
+  summary: Some BaBies Have A Pee-Pee Colored Face. Sepsis, Breast-milk, Breast-feeding, Hemolysis, Atresia, Physiologic, Polycythemia, Cephalohematoma, Familial 
+  diagnoses: 
+    - neonatal-sepsis-in-newborn
+    - breast-feeding-jaundice-in-newborn
+    - breast-milk-jaundice-in-newborn
+    - hemolytic-disease-of-newborn-in-newborn
+    - polycythemia-in-newborn
+    - physiologic-in-newborn
+    - cephalohematoma-in-newborn
+    - familial-neonatal-hyperbilirubinemia-in-newborn
+
+
+
+
+
+      
+
+
+

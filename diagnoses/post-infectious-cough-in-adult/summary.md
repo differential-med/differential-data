@@ -1,0 +1,1 @@
+Acute cough which lasts 1-2 weeks (6-8 in asthmatics) after URI

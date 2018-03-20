@@ -1,0 +1,1 @@
+Within first week of life. Bruising on scalp.

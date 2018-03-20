@@ -1,0 +1,1 @@
+Fever, chills, SOB, cough, increased fremitus. Order CXR, CBC, sputum gram stain and culture.

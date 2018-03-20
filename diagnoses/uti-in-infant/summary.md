@@ -1,0 +1,1 @@
+Fever, may have dribbling or colic before/after voiding. CVA tenderness in infant is pyelonephritis until proven otherwise.

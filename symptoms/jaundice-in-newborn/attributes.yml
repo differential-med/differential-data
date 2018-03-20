@@ -1,0 +1,11 @@
+diagnoses:
+- neonatal-sepsis-in-newborn
+- breast-feeding-jaundice-in-newborn
+- breast-milk-jaundice-in-newborn
+- hemolytic-disease-of-newborn-in-newborn
+- polycythemia-in-newborn
+- physiologic-in-newborn
+- cephalohematoma-in-newborn
+- familial-neonatal-hyperbilirubinemia-in-newborn
+name: jaundice-in-newborn
+pretty-name: Jaundice in newborn

@@ -1,0 +1,9 @@
+diagnoses:
+- lobar-pneumonia-in-adult
+- post-infectious-cough-in-adult
+- acute-bronchitis-in-adult
+- pleurodynia-in-adult
+- cough-variant-asthma-in-adult
+- other-cough-diagnoses-in-adult
+name: chronic-cough-in-adult
+pretty-name: Chronic cough in an adult

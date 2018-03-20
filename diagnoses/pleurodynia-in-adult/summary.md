@@ -1,0 +1,1 @@
+Uncommon, caused by coxsackievirus. Acute, severe paroxysmal cough and pain of the abdomen/thorax.

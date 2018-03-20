@@ -1,0 +1,93 @@
+# =============================================================================
+# =============================================================================
+# ============================= Master diagnoses ==============================
+
+
+# -------------------------- chronic cough in adult ---------------------------
+lobar-pneumonia-in-adult:
+  summary: Fever, chills, SOB, cough, increased fremitus. Order CXR, CBC, sputum gram stain and culture.
+  pretty-name: Lobar pneumonia
+  name: lobar-pneumonia-in-adult
+post-infectious-cough-in-adult:
+  summary: Acute cough which lasts 1-2 weeks (6-8 in asthmatics) after URI
+  pretty-name: Post-infectious cough
+  name: post-infectious-cough-in-adult
+acute-bronchitis-in-adult:
+  summary: Cough can accompany an URI
+  pretty-name: Acute bronchitis
+  name: acute-bronchitis-in-adult
+pleurodynia-in-adult:
+  summary: Uncommon, caused by coxsackievirus. Acute, severe paroxysmal cough and pain of the abdomen/thorax.
+  pretty-name: Pleurodynia
+  name: pleurodynia-in-adult
+cough-variant-asthma-in-adult:
+  summary: worse at night, allergies
+  pretty-name: Cough-variant asthma
+  name: cough-variant-asthma-in-adult
+other-cough-diagnoses-in-adult:
+  summary: aspiration, PE, pulmonary 
+  pretty-name: Other cough-diagnoses
+  name: other-cough-diagnoses-in-adult
+# ------------------------------ fever in infant ------------------------------
+viral-uri-in-infant:
+  summary: Rhinorrhea, fever, exposure. Order RVP
+  pretty-name: Viral URI
+  name: viral-uri-in-infant
+pneumonia-in-infant:
+  summary: Fever, respiratory compliants
+  pretty-name: Pneumonia
+  name: pneumonia-in-infant
+otitis-media-in-infant:
+  summary: Fever, anorexia, +/- otodynia, +/- drainage, +/- hearing loss. Sometimes preceded by URI symptoms. Order pneumatic otoscopy, tympanometry (older than 6m)
+  pretty-name: Otitis media
+  name: otitis-media-in-infant
+meningitis-in-infant:
+  summary: Fever, irritability, petechial rash, poor feeding, poor sleep, vomiting. Meningial signs may not be present. Order LP-CSF analysis
+  pretty-name: Meningitis
+  name: meningitis-in-infant
+uti-in-infant:
+  summary: Fever, may have dribbling or colic before/after voiding. CVA tenderness in infant is pyelonephritis until proven otherwise.
+  pretty-name: UTI
+  name: uti-in-infant
+gastroenteritis-in-infant:
+  summary: Fever, vomiting and/or watery diarrhea, abdominal pain
+  pretty-name: Gastroenteritis
+  name: gastroenteritis-in-infant
+occult-bacteremia-in-infant:
+  summary: High fever with no obvious source
+  pretty-name: Occult bacteremia
+  name: occult-bacteremia-in-infant
+# ---------------------------- Jaundice in newborn ----------------------------
+neonatal-sepsis-in-newborn:
+  summary: Jaundice early sign. Others include lethargy, vomiting, poor feeding, fever, hypothermia, abnormal color in urine. Consider GBS or ToRCHES. Order CBC, CRP, CMV/Toxo/Rubella serology, CMV urine culture, RPR
+  pretty-name: Neonatal sepsis
+  name: neonatal-sepsis-in-newborn
+breast-feeding-jaundice-in-newborn:
+  summary: Within first week of life. Poor breast feeding leads to jaundice
+  pretty-name: Breast-feeding jaundice
+  name: breast-feeding-jaundice-in-newborn
+breast-milk-jaundice-in-newborn:
+  summary: (after first week of life) Insufficient mechanism to break down bilirubin
+  pretty-name: Breast-milk jaundice
+  name: breast-milk-jaundice-in-newborn
+hemolytic-disease-of-newborn-in-newborn:
+  summary: Within first week of life. ABO or Rh incompatibility. Order Direct coombs test, blood typing
+  pretty-name: Hemolytic disease of newborn
+  name: hemolytic-disease-of-newborn-in-newborn
+polycythemia-in-newborn:
+  summary: Within first week of life. Increased total RBC mass
+  pretty-name: Polycythemia 
+  name: polycythemia-in-newborn
+physiologic-in-newborn:
+  summary: Peaks between 3-7 day of life. Common in pre-term.
+  pretty-name: Physiologic
+  name: physiologic-in-newborn
+cephalohematoma-in-newborn:
+  summary: Within first week of life. Bruising on scalp.
+  pretty-name: Cephalohematoma
+  name: cephalohematoma-in-newborn
+familial-neonatal-hyperbilirubinemia-in-newborn:
+  summary: Within first week of life. Positive family history.
+  pretty-name: Familial neonatal hyperbilirubinemia
+  name: familial-neonatal-hyperbilirubinemia-in-newborn
+  

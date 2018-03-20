@@ -1,0 +1,10 @@
+diagnoses:
+- viral-uri-in-infant
+- pneumonia-in-infant
+- otitis-media-in-infant
+- meningitis-in-infant
+- uti-in-infant
+- gastroenteritis-in-infant
+- occult-bacteremia-in-infant
+name: fever-in-infant
+pretty-name: Fever in an infant

@@ -1,0 +1,1 @@
+Fever, irritability, petechial rash, poor feeding, poor sleep, vomiting. Meningial signs may not be present. Order LP-CSF analysis

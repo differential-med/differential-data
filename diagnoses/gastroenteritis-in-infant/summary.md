@@ -1,0 +1,1 @@
+Fever, vomiting and/or watery diarrhea, abdominal pain

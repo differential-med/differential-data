@@ -1,0 +1,1 @@
+High fever with no obvious source
